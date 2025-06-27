@@ -1,6 +1,11 @@
-| **name**                                       | **about**                                                                                                                        | **title** | **labels**    | **assignees** |
-| ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | --------- | ------------- | ------------- |
-| SOP / Ticket Resolution Documentation Creation | Ask Copilot to create Standard Operating Procedures (SOP) or ticket resolution documentation for support and incident management | "[SOP]"   | documentation | ''            |
+---
+name: SOP / Ticket Resolution Documentation Creation
+about: Ask Copilot to create Standard Operating Procedures (SOP) or ticket resolution documentation for support and incident management
+title: "[SOP]"
+labels: documentation
+assignees: ''
+
+---
 
 First follow the below rules, then continue to work:
 - Follow these instructions like they are step by step instructions to follow
